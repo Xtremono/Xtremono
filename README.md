@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jose Tomas!
 - 👀 I’m interested in JS (i love JS for now), Ruby and Rails.
 - 🌱 I’m currently learning JavaScript, React, HTML and CSS.
-- 📫 How to reach me j_tomas_93@hotmail.com
+- 📫 How to reach me https://www.linkedin.com/in/jose-tomas-ruiz/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a fat orange cat, hes name is Aslan and i love it
 
