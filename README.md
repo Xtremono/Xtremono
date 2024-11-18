@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jose Tomas!
-- 👀 I’m interested in JS and im learning React.js!
+- 👀 I’m interested in JS and Front-End
 - 🌱 I’m currently learning JavaScript, React, HTML and CSS.
 - 📫 How to reach me https://www.linkedin.com/in/jose-tomas-ruiz/
 - 😄 Pronouns: He/Him
