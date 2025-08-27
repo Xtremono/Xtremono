@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose Tomas!
-- 👀 I’m interested in JS and Front-End
-- 🌱 I’m currently learning JavaScript, React, HTML and CSS.
+- 👀 I’m interested in learning how to code better.
+- 🌱 I’m currently learning React, Nest.js, Python!
 - 📫 How to reach me https://www.linkedin.com/in/jose-tomas-ruiz/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a fat orange cat, hes name is Aslan and i love it
